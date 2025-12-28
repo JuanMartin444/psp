@@ -14,7 +14,7 @@
                 <!-- Logo o título de la aplicación -->
                 <div class="mb-8">
                     <h1 class="text-5xl font-bold text-gray-900 mb-4">
-                        Bienvenido a PSP
+                        Bienvenido a PSP - Sistema de Gestión
                     </h1>
                     <p class="text-xl text-gray-600">
                         Tu plataforma de gestión y productividad
